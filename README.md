@@ -1,3 +1,3 @@
 # Project 02: Your Professional Project Repository
 This project marks an important step in transforming a simple local webpage into a polished, professional web presence. By creating a GitHub repository, you’ll introduce version control to your workflow, allowing for better organization, collaboration, and long-term maintenance. Publishing your personal website to a live public URL makes your work accessible to others, showcasing your skills and personality in a real-world context. Documenting the process with a well-written README.md file adds clarity and professionalism, helping others understand the purpose, structure, and deployment of your site.
-[GitHub Live Website](https://github.com/GCain0/gcain0.github.io)
+[GitHub Live Website](https://gcain0.github.io/)
